@@ -1,6 +1,4 @@
 # Online-Shopping-Website
-Updated version
-
 
 Online shopping system with both Admin and User layouts.
 
